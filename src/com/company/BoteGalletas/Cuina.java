@@ -11,7 +11,7 @@ public class Cuina {
         Nen n1 = new Nen("Eustaquio", potGaletes);
         Nen n2 = new Nen("Umberto", potGaletes);
         Nen n3 = new Nen("Juana", potGaletes);
-        Mare mare = new Mare("Patrocinio", potGaletes);
+        Mare mare = new Mare("Hambrosio", potGaletes);
 
 
         n1.start();
